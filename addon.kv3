@@ -1,0 +1,24 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	mod = "distantjetlines\' Portal 1 Test Chamber Texture Collection"
+	description = "A collection of PBR enabled Portal 1 testchamber textures. All the basics you should need."
+	type = "Asset Pack"
+	id = 
+	thumbnail = ".assets/thumb2.png"
+	authors = [  ]
+	dependencies = [  ]
+	tags = 
+	[
+		"Materials/Textures",
+	]
+	ignore = [  ]
+	metadata = 
+	{
+	}
+	assets = 
+	{
+		logo = ""
+		cover = ""
+	}
+	mounted_by_default = true
+}

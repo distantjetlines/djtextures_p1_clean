@@ -1,0 +1,16 @@
+PBR
+{
+$basetexture			"dj\modular\plastic_column_basecolor"
+$basetexturetransform	"center 0 0 scale 2 2 rotate 0 translate 0 0"
+$bumpmap				"dj\modular\plastic_column_normal"
+$bumptransform			"center 0 0 scale 2 2 rotate 0 translate 0 0"
+$mraotexture			"dj\modular\plastic_column_mrao"
+$mraoscale              "[1.0 1.0 1.0]"
+
+$envmaplightscale		1
+$envmaptint 			0.5
+
+$reflectivity			"[ 0.6 0.6 0.6 ]" 
+$surfaceprop			plastic
+"%noportal"				1
+}

@@ -1,0 +1,16 @@
+PBR
+{
+$basetexture			"dj\modular\metal\metal_floor_modular_dark_basecolor"
+$basetexturetransform	"center 0 0 scale 2 2 rotate 0 translate 0 0"
+$bumpmap				"dj\modular\metal\metal_floor_modular_normal"
+$bumptransform			"center 0 0 scale 2 2 rotate 0 translate 0 0"
+$mraotexture			"dj\modular\metal\metal_floor_modular_mrao"
+$mraoscale              "[1.0 1.0 1.0]"
+
+$envmaplightscale		1
+$envmaptint 			0.5
+
+$reflectivity			"[ 0.6 0.6 0.6 ]" 
+"%noportal"				1
+$surfaceprop			metal
+}

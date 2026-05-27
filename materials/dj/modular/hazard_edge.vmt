@@ -1,0 +1,24 @@
+PBR
+{
+$basetexture			"dj\modular\hazard_edge_basecolor"
+$basetexturetransform	"center 0 0 scale 2 2 rotate 0 translate 0 0"
+$bumpmap				"dj\modular\hazard_edge_normal"
+$bumptransform			"center 0 0 scale 2 2 rotate 0 translate 0 0"
+$mraotexture			"dj\modular\hazard_edge_mrao"
+$mraoscale              "[1.0 1.0 1.0]"
+$emissiontexture				"dj\modular\hazard_edge_emissive"
+$emissionscale              "[0.5 0.5 0.5]"
+
+//$parallax               1
+//$parallaxcenter			0.5
+//$parallaxdepth			0.05
+//$parallaxdither         1
+//$parallaxscale          256
+
+$envmaplightscale		1
+$envmaptint 			0.5
+
+$reflectivity			"[ 0.6 0.6 0.6 ]" 
+$surfaceprop			metal
+"%noportal"				1
+}
